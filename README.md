@@ -13,13 +13,13 @@ NRF/BIG research provided results of a consumer holiday spending survey (USAToda
 1450, 280, 1120, 200, 350  
 
 ## Q1.What is the lowest holiday spending? The highest?
-Lowest Spending = $180
+Lowest Spending = $180\
 Highest Speding = $2050
 
 Range = 2050 – 180 = $1870
 
-There is a large variation in spending.
-Some customers spend very little.
+There is a large variation in spending.\
+Some customers spend very little.\
 Some customers are extremely high spenders.
 
 ## Q2.Use a class width of $250 to prepare a frequency distribution and a percent frequency
@@ -45,27 +45,27 @@ Create exclusive packages for premium customers.
 
 ## Q3.Prepare a histogram and comment on the shape of the distribution.
 
-If we plot a histogram:
-Most bars would be high in the middle ranges.
-A few extreme high values appear on the right side (1780, 2050).
+If we plot a histogram:\
+Most bars would be high in the middle ranges.\
+A few extreme high values appear on the right side (1780, 2050).\
 
-📈 Distribution Type
+📈 Distribution Type\
 Right-Skewed (Positively Skewed Distribution)
 
 🎯 Interpretation
-Majority of customers are moderate spenders.
-A small number of customers spend unusually high amounts.
+Majority of customers are moderate spenders.\
+A small number of customers spend unusually high amounts.\
 The mean may be slightly inflated due to high values.
 
 ## Q4.What observations can you make about holiday spending?
 
-🔎 1. Market Segmentation
+🔎 1. Market Segmentation\
 
-Customers can be divided into three groups:
+Customers can be divided into three groups:\
 
-Low Spenders: < $500
-Mid Spenders: $500 – $1000
-High Spenders: > $1000
+Low Spenders: < $500\
+Mid Spenders: $500 – $1000\
+High Spenders: > $1000\
 
 🔎 2. Revenue Strategy
 
